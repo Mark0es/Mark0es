@@ -1,15 +1,11 @@
-<!-- Thanks to https://github.com/KodingDev for the design!
-<!-- ![](/assets/media/header.svg)
+<!-- Thanks to https://github.com/KodingDev for the design!-->
+<!-- ![](/assets/media/header.svg)-->
 
 ### Hi, there! 👋
 
 Hello! I'm Mark, a software developer from Greece!
 
 My pronouns are he/him.
-
-<br />
-<br />
-<br />
 
 ## 📚 Socials
 
