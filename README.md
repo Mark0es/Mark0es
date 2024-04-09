@@ -18,7 +18,7 @@ My pronouns are he/him.
     <summary><b>👀  What I'm doing</b></summary>
     <br/>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/336930170596360204)](https://discord.com/users/336930170596360204)
+[![Discord Presence](https://lanyard.cnrad.dev/api/336930170596360204)](https://discord.com/users/@markoes)
 </details>
 
 <details>
