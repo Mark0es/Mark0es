@@ -9,7 +9,6 @@ My pronouns are he/him.
 
 ## 📚 Socials
 
-- 🐦Twitter: [@Mark0ess](https://twitter.com/Mark0ess)
 - 📱 Discord: [markoes](https://discord.com/users/336930170596360204)
 
 ## 🤓 Want to know more?
